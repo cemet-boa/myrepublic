@@ -2241,7 +2241,7 @@ a.btn-white {
 }
 .cid-spPOCnAIal {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #862686;
 }
 .cid-spPOCnAIal .plan-body .btn-bgr {
@@ -2391,6 +2391,160 @@ a.btn-white {
 }
 .cid-spPOCnAIal .list-group,
 .cid-spPOCnAIal .mbr-section-btn {
+  color: #232323;
+}
+.cid-sAaXW6EIli {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #862686;
+}
+.cid-sAaXW6EIli .plan-body .btn-bgr {
+  z-index: 0;
+}
+.cid-sAaXW6EIli .plan-body .btn-bgr.btn-primary-outline {
+  border: 1px solid #04dbec;
+}
+.cid-sAaXW6EIli .plan-body .btn-bgr.btn-primary-outline:hover {
+  background-color: #04dbec !important;
+  color: #ffffff !important;
+}
+.cid-sAaXW6EIli .plan-body .btn-bgr.btn-secondary-outline {
+  border: 1px solid #000d20;
+}
+.cid-sAaXW6EIli .plan-body .btn-bgr.btn-secondary-outline:hover {
+  background-color: #000d20 !important;
+  color: #ffffff !important;
+}
+.cid-sAaXW6EIli .plan-body .btn-bgr.btn-success-outline {
+  border: 1px solid #862686;
+}
+.cid-sAaXW6EIli .plan-body .btn-bgr.btn-success-outline:hover {
+  background-color: #862686 !important;
+  color: #ffffff !important;
+}
+.cid-sAaXW6EIli .plan-body .btn-bgr.btn-info-outline {
+  border: 1px solid #ab33ab;
+}
+.cid-sAaXW6EIli .plan-body .btn-bgr.btn-info-outline:hover {
+  background-color: #ab33ab !important;
+  color: #ffffff !important;
+}
+.cid-sAaXW6EIli .plan-body .btn-bgr.btn-warning-outline {
+  border: 1px solid #bbbbbb;
+}
+.cid-sAaXW6EIli .plan-body .btn-bgr.btn-warning-outline:hover {
+  background-color: #bbbbbb !important;
+  color: #ffffff !important;
+}
+.cid-sAaXW6EIli .plan-body .btn-bgr.btn-danger-outline {
+  border: 1px solid #ff0000;
+}
+.cid-sAaXW6EIli .plan-body .btn-bgr.btn-danger-outline:hover {
+  background-color: #ff0000 !important;
+  color: #ffffff !important;
+}
+.cid-sAaXW6EIli .plan-body .btn-bgr.btn-black-outline {
+  border: 1px solid #000000;
+}
+.cid-sAaXW6EIli .plan-body .btn-bgr.btn-black-outline:hover {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+.cid-sAaXW6EIli .plan-body .btn-bgr.btn-white-outline {
+  border: 1px solid #ffffff;
+}
+.cid-sAaXW6EIli .plan-body .btn-bgr.btn-white-outline:hover {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+.cid-sAaXW6EIli .plan-header {
+  overflow: hidden;
+  background-color: #ab33ab;
+  margin-left: -24px;
+  margin-right: -24px;
+  padding: 32px;
+}
+.cid-sAaXW6EIli .plan-header .plan-price .price-figure {
+  color: #ffffff;
+  margin-right: -10px;
+  display: block;
+  width: 100%;
+}
+.cid-sAaXW6EIli .plan-header .plan-price .price-term {
+  display: block;
+  line-height: 1;
+  color: #ffffff;
+}
+.cid-sAaXW6EIli .plan-header .plan-price .price-free {
+  color: #ffffff;
+  margin-top: 20px;
+  display: block;
+}
+.cid-sAaXW6EIli .plan {
+  position: relative;
+  max-width: 330px;
+  padding-right: 15px;
+  padding-left: 15px;
+  color: #232323;
+}
+.cid-sAaXW6EIli .plan:hover .plan-wrap {
+  box-shadow: 0 0 17px 0 rgba(0, 0, 0, 0.12);
+  transition: box-shadow 0.3s;
+}
+.cid-sAaXW6EIli .plan .plan-wrap {
+  padding-right: 24px;
+  padding-left: 24px;
+}
+.cid-sAaXW6EIli .plan .list-group-item {
+  position: relative;
+  justify-content: center;
+  border: 0;
+  background: transparent;
+  padding: 1rem 1.25rem;
+}
+.cid-sAaXW6EIli .plan .mbr-section-btn {
+  padding-bottom: 20px;
+}
+.cid-sAaXW6EIli .plan .mbr-section-btn .btn {
+  width: 100%;
+  margin: 0;
+}
+.cid-sAaXW6EIli .plan-wrap {
+  background-color: #ffffff;
+}
+@media (max-width: 1199px) {
+  .cid-sAaXW6EIli .plan .list-group-item {
+    padding: 1rem 0rem;
+  }
+}
+@media (max-width: 550px) {
+  .cid-sAaXW6EIli .price-figure {
+    font-size: 1.7rem;
+  }
+  .cid-sAaXW6EIli .price-free {
+    font-size: 1.7rem;
+  }
+}
+.cid-sAaXW6EIli .plan-title {
+  color: #ffb51c;
+}
+.cid-sAaXW6EIli .plan .plan-wrap .plan-header .plan-price .price-free {
+  color: #ffb51c;
+}
+.cid-sAaXW6EIli .mbr-section-title,
+.cid-sAaXW6EIli .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-sAaXW6EIli .mbr-text,
+.cid-sAaXW6EIli .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-sAaXW6EIli .mbr-section-subtitle,
+.cid-sAaXW6EIli .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-sAaXW6EIli .list-group,
+.cid-sAaXW6EIli .mbr-section-btn {
   color: #232323;
 }
 .cid-sptp8FbdhM .google-map {
